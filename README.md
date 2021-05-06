@@ -155,7 +155,7 @@ confidentiality. Although, the data set provided comes from a real business.
 - CustomerType Transient or Transient-party examples: direct booking, booking website, ...
 
 
-## Expected Outcomes
+## Project Objectives
 
 1. Explore the data and build a model to predict cancellations:
     * Define a machine learning success criteria;
