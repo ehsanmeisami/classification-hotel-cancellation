@@ -1,4 +1,4 @@
-# BC2: Predict Hotel Booking Cancellations
+# Predict Hotel Booking Cancellations
 
 **Problem type:** Classification
 
@@ -8,12 +8,12 @@ In the hotel industry, as in many other travel-related industries, demand is
 managed through advanced bookings. Bookings (also known as reservations) are a
 forward contract between the hotel and the customer that gives the customer
 the right to use the service in the future at a settled price, but often with
-an option to cancel [^1]. This cancellation option puts the risk on hotels who
+an option to cancel [1]. This cancellation option puts the risk on hotels who
 have to honor the bookings that they have on-the-books, but, at the same time,
 have to support the opportunity costs of having vacant rooms, when someone
 cancels, and there is no time to try to sell the room or sell it at a
 discounted price. In Europe, the cancellation rate by reservation value, from
-2014 to 2018, rose from 33% to 40% [^2].
+2014 to 2018, rose from 33% to 40% [2].
 
 Cancellations occur for understandable reasons such as business meeting
 changes, vacations rescheduling, illness, or adverse weather conditions.
@@ -21,9 +21,9 @@ However, cancellations also occur for not so understandable reasons, such as
 finding a better deal. “Deal-seeking” customers, tend to make multiple
 bookings for the same trip or make one booking, but continue to search for
 better deals (e.g., looking for hotels with better social reputation, better
-price, or better location) [^4]. The number of “deal-seeking” customers has
+price, or better location) [4]. The number of “deal-seeking” customers has
 grown immensely with the appearance of Online Travel Agencies (OTAs) in 1996
-[^2,5].
+[2,5].
 
 Although OTAs provide high market exposure and the possibility of hotels for
 selling inventory at opaque and bundled rates, they also have negative
@@ -32,7 +32,7 @@ to guarantee to them the best available price or force rate parity among the
 different distribution channels.  Due to the exposure that hotels gained with
 OTAs and online distribution, competition is fierce among hotels. This
 competition, together with OTAs push for hotels to practice a free
-cancellation policy [^2], makes hotels employ controls such as overbooking to
+cancellation policy [2], makes hotels employ controls such as overbooking to
 fight cancellations. However, overbooking creates several problems:
 
 - **Reallocation costs:** hotels must pay for the reallocation of customers in other hotels;
@@ -165,8 +165,8 @@ confidentiality. Although, the data set provided comes from a real business.
 
 ## References
 
-[^1]: TALLURI, Kalyan T. and VAN RYZIN, Garrett. The theory and practice of revenue management. New York, NY : Springer, 2005. International series in operations research & management science, 68. ISBN 1-4020-7701-7.
-[^2]: HERTZFELD, Esther. Study: Cancellation rate at 40% as OTAs push free change policy. Hotel Management [online]. April 23 2019. [Accessed August 15 2019]. Available from: https://www.hotelmanagement.net/tech/study-cancelation-rate-at-40-as-otas-push-free-change-policy
-[^3]: ANTONIO, Nuno, ALMEIDA, Ana de and NUNES, Luis. Hotel booking demand datsets. Data in Brief. February 2019. Vol. 22, p. 41–49. DOI 10.1016/j.dib.2018.11.126.
-[^4]: ANTONIO, Nuno, DE ALMEIDA, Ana and NUNES, Luis. Big Data in hotel Revenue Management: Exploring cancellation drivers to gain insights Into booking cancellation behavior. Cornell Hospitality Quarterly. May 29 2019. P. 193896551985146. DOI 10.1177/1938965519851466.
-[^5]: BARTHEL, Jill and PERRET, Sophie. OTAs – A hotel’s friend or foe? [online]. London, UK : HVS, 2015. Available from: https://www.hospitalitynet.org/file/152005663.pdf
+[1]: TALLURI, Kalyan T. and VAN RYZIN, Garrett. The theory and practice of revenue management. New York, NY : Springer, 2005. International series in operations research & management science, 68. ISBN 1-4020-7701-7.
+[2]: HERTZFELD, Esther. Study: Cancellation rate at 40% as OTAs push free change policy. Hotel Management [online]. April 23 2019. [Accessed August 15 2019]. Available from: https://www.hotelmanagement.net/tech/study-cancelation-rate-at-40-as-otas-push-free-change-policy
+[3]: ANTONIO, Nuno, ALMEIDA, Ana de and NUNES, Luis. Hotel booking demand datsets. Data in Brief. February 2019. Vol. 22, p. 41–49. DOI 10.1016/j.dib.2018.11.126.
+[4]: ANTONIO, Nuno, DE ALMEIDA, Ana and NUNES, Luis. Big Data in hotel Revenue Management: Exploring cancellation drivers to gain insights Into booking cancellation behavior. Cornell Hospitality Quarterly. May 29 2019. P. 193896551985146. DOI 10.1177/1938965519851466.
+[5]: BARTHEL, Jill and PERRET, Sophie. OTAs – A hotel’s friend or foe? [online]. London, UK : HVS, 2015. Available from: https://www.hospitalitynet.org/file/152005663.pdf
