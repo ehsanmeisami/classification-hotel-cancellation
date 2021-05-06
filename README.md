@@ -166,7 +166,7 @@ confidentiality. Although, the data set provided comes from a real business.
 ## References
 
 [1]: TALLURI, Kalyan T. and VAN RYZIN, Garrett. The theory and practice of revenue management. New York, NY : Springer, 2005. International series in operations research & management science, 68. ISBN 1-4020-7701-7. <br><br>
-[2]: HERTZFELD, Esther. Study: Cancellation rate at 40% as OTAs push free change policy. Hotel Management [online]. April 23 2019. [Accessed August 15 2019]. Available from: https://www.hotelmanagement.net/tech/study-cancelation-rate-at-40-as-otas-push-free-change-policy <br>
-[3]: ANTONIO, Nuno, ALMEIDA, Ana de and NUNES, Luis. Hotel booking demand datsets. Data in Brief. February 2019. Vol. 22, p. 41–49. DOI 10.1016/j.dib.2018.11.126. <br>
-[4]: ANTONIO, Nuno, DE ALMEIDA, Ana and NUNES, Luis. Big Data in hotel Revenue Management: Exploring cancellation drivers to gain insights Into booking cancellation behavior. Cornell Hospitality Quarterly. May 29 2019. P. 193896551985146. DOI 10.1177/1938965519851466. <br>
-[5]: BARTHEL, Jill and PERRET, Sophie. OTAs – A hotel’s friend or foe? [online]. London, UK : HVS, 2015. Available from: https://www.hospitalitynet.org/file/152005663.pdf <br>
+[2]: HERTZFELD, Esther. Study: Cancellation rate at 40% as OTAs push free change policy. Hotel Management [online]. April 23 2019. [Accessed August 15 2019]. Available from: https://www.hotelmanagement.net/tech/study-cancelation-rate-at-40-as-otas-push-free-change-policy <br><br>
+[3]: ANTONIO, Nuno, ALMEIDA, Ana de and NUNES, Luis. Hotel booking demand datsets. Data in Brief. February 2019. Vol. 22, p. 41–49. DOI 10.1016/j.dib.2018.11.126. <br><br>
+[4]: ANTONIO, Nuno, DE ALMEIDA, Ana and NUNES, Luis. Big Data in hotel Revenue Management: Exploring cancellation drivers to gain insights Into booking cancellation behavior. Cornell Hospitality Quarterly. May 29 2019. P. 193896551985146. DOI 10.1177/1938965519851466. <br><br>
+[5]: BARTHEL, Jill and PERRET, Sophie. OTAs – A hotel’s friend or foe? [online]. London, UK : HVS, 2015. Available from: https://www.hospitalitynet.org/file/152005663.pdf <br><br>
